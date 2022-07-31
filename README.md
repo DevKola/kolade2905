@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kolade2905
+- 👋 Hi, I’m Kolade Ayinde (@kolade2905)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
